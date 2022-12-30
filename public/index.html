@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>File List</title>
+</head>
+<body>
+  <h1>File List</h1>
+  <ul id="file-list"></ul>
+  <script>
+    // Make a request to the server to get a list of the files in the /res/ directory
+    var xhr = new XMLHttpRequest();
+    xhr.onreadystatechange = function() {
+      if (xhr.readyState === 4 && xhr.status === 200) {
+        // If the request is successful, parse the response and build an HTML list of the files
+        var fileList = JSON.parse(xhr.responseText);
+        var listElement = document.getElementById("file-list");
+        fileList.forEach(function(file) {
+          var listItem = document.createElement("li");
+          listItem.innerHTML = file;
+          listElement.appendChild(listItem);
+        });
+      }
+    };
+    xhr.open("GET", "https://christopherklix.github.io/ree-server/res/");
+    xhr.send();
+  </script>
+</body>
+</html>
