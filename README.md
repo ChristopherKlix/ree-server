@@ -1,5 +1,8 @@
-# ree-server
+# HAW's ITSC sucks
 
-This is a test
+So, I made our own "server"... 😂
 
-[Launch Browser](list.md)
+## Module
+
+[B-REE-ET1](./res/B-REE-ET1/B-REE-ET1.md)
+[B-REE-PR1](./res/B-REE-ET1/B-REE-PR1.md)
