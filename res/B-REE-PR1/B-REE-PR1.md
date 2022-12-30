@@ -3,4 +3,5 @@
 [< back](../../README.md)
 
 - [VLs](./VLs/README.md)
+- [VLs](./Praktikumsaufgaben/README.md)
 - [HAW Coding Challenge](https://github.com/ChristopherKlix/haw_coding_challenge)
