@@ -1,4 +1,5 @@
-function checkPassword() {
+function checkPassword(e) {
+    e.preventDefault();
     var password = document.getElementById("password").value;
     if (password == "tictactoe") {
         // Redirect to another page
@@ -9,4 +10,4 @@ function checkPassword() {
         console.log("Incorrect password!");
         alert("Incorrect password!");
     }
-}
+};
