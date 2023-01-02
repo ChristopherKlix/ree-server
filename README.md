@@ -8,7 +8,7 @@ Welches Spiel haben wir in PRP1 in C geschrieben?
 Format: keine Leerzeichen und alles lowercase
 
 <form>
-  <label for="password">Password:</label><br>
+  <label for="password">Access Code:</label><br>
   <input type="password" id="password" name="password"><br>
   <input type="submit" value="Submit" onclick="checkPassword()">
 </form>
