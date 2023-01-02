@@ -6,8 +6,63 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>REE Server</title>
     <script defer src="./main.js"></script>
+    <style>
+        body {
+            background-color: #ffffff;
+            color: #161616;
+        }
+
+        header {
+            padding: 10px;
+            text-align: center;
+        }
+
+        main {
+            padding: 10px;
+        }
+
+        form {
+            display: flex;
+            align-items: center;
+        }
+
+        label {
+            margin-right: 0.5rem;
+        }
+
+        input {
+            background-color: #161616;
+            color: #ffffff;
+            border: 2px solid #161616;
+            padding: 5px 8px;
+        }
+
+        input:hover {
+            background-color: #222222;
+        }
+
+        input:focus {
+            background-color: #161616;
+            color: #ffffff;
+            border: 2px solid #161616;
+            outline: none;
+        }
+
+        button {
+            background-color: #161616;
+            color: #ffffff;
+            border: 2px solid #161616;
+            padding: 5px;
+        }
+
+        button:hover {
+            background-color: #ffffff;
+            color: #000000;
+            border: 2px solid #161616;
+        }
+    </style>
 </head>
-<body>
+<body style="display: flex; align-content: center; flex-direction: column; justify-content: center; align-items: center; font-family: sans-serif;">
     <header>
         <h1>REE Server</h1>
     </header>
@@ -28,9 +83,9 @@
         <form>
             <label for="password">Access Code:</label><br>
             <input type="password" id="password" name="password"><br>
+            <button type="submit" value="Submit" onclick="checkPassword();">Submit</button>
         </form>
 
-        <button type="submit" value="Submit" onclick="checkPassword();">Submit</button>
     </main>
 </body>
 </html>
