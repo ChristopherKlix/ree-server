@@ -1,3 +1,5 @@
+<script defer src="./main.js"></script>
+
 # B-REE
 
 Damit die Dateien nicht komplett frei erreichbar sind,
