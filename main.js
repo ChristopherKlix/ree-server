@@ -1,10 +1,12 @@
 function checkPassword() {
     var password = document.getElementById("password").value;
     if (password == "tictactoe") {
-      // Redirect to another page
-        window.location.replace("./res/README.md");
-    //   document.getElementById("secret-div").style.display = "block";
+        // Redirect to another page
+        window.location.replace("./res/");
+        console.log("Correct password!");
+        //   document.getElementById("secret-div").style.display = "block";
     } else {
-      alert("Incorrect password!");
+        console.log("Incorrect password!");
+        alert("Incorrect password!");
     }
 }
