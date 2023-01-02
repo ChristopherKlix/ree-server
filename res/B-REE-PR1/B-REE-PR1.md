@@ -1,6 +1,6 @@
 # B-REE-PR1
 
-[< back](../../README.md)
+[< back](../README.md)
 
 - [VLs](./VLs/README.md)
 - [Praktikumsaufgaben](./Praktikumsaufgaben/README.md)

@@ -1,6 +1,6 @@
 # B-REE-MA1
 
-[< back](../../README.md)
+[< back](../README.md)
 
 - [Skripts](./Skripts/README.md)
 - [VLs](./VLs/README.md)

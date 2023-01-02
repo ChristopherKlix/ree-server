@@ -1,6 +1,6 @@
 # B-REE-ET1
 
-[< back](../../README.md)
+[< back](../README.md)
 
 - [VLs](./VLs/README.md)
 - [Altklausuren](./Altklausuren/README.md)
