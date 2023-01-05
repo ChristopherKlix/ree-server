@@ -4,4 +4,4 @@
 - [B-REE-PR1](./B-REE-PR1/B-REE-PR1.md)
 - [B-REE-PH1](./B-REE-PH1/B-REE-PH1.md)
 - [B-REE-MA1](./B-REE-MA1/B-REE-MA1.md)
-- [B-REE-EE1](./B-REE-EE1/B-REE-EE1.md) (soon)
+- [B-REE-EE1](./B-REE-EE1/B-REE-EE1.md)
