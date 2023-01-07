@@ -2,7 +2,7 @@
 
 ## Netzwerkanalyse 2 - Maschenstromverfahren & Knotenpotentialverfahren
 
-[< back](../B-REE-ET1.md)
+[< back](./README.md)
 
 <style>
   video {

@@ -1,6 +1,6 @@
 # ET1 Video 09 - Magnestisches Feld und Spule
 
-[< back](../B-REE-ET1.md)
+[< back](./README.md)
 
 <style>
   video {

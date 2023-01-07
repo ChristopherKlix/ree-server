@@ -1,6 +1,6 @@
 # ET1 Video 07 - Gleichstrommessung und Messung von Widerständen
 
-[< back](../B-REE-ET1.md)
+[< back](./README.md)
 
 <style>
   video {

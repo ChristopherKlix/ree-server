@@ -1,6 +1,6 @@
 # ET1 Video 08 - Elektrisches Feld und Kondensator
 
-[< back](../B-REE-ET1.md)
+[< back](./README.md)
 
 <style>
   video {

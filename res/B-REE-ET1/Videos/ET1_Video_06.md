@@ -1,6 +1,6 @@
 # ET1 Video 06 - Nichtlineare Last und Quellen, gesteuerte Quellen
 
-[< back](../B-REE-ET1.md)
+[< back](./README.md)
 
 <style>
   video {

@@ -1,6 +1,6 @@
 # ET1 Video 05a - Netzwerkanalyse 1
 
-[< back](../B-REE-ET1.md)
+[< back](./README.md)
 
 <style>
   video {

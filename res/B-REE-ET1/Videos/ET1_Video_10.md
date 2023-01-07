@@ -1,6 +1,6 @@
 # ET1 Video 10 - Wechselspannung
 
-[< back](../B-REE-ET1.md)
+[< back](./README.md)
 
 <style>
   video {
