@@ -1,4 +1,4 @@
-# ET1 Video 05a - Netzwerkanalyse 1
+# ET1 Video 09 - Magnestisches Feld und Spule
 
 [< back](../B-REE-ET1.md)
 
@@ -9,6 +9,6 @@
 </style>
 
 <video controls controlsList="nodownload">
-  <source src="https://storage.googleapis.com/ree-server-videos/ET1_video_05a.mp4" type="video/mp4">
+  <source src="https://storage.googleapis.com/ree-server-videos/ET1_video_09.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
