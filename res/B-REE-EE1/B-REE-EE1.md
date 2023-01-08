@@ -3,3 +3,4 @@
 [< back](../README.md)
 
 - [VLs](./VLs/README.md)
+- [Praktikumsaufgaben](./Praktikumsaufgaben/README.md)
