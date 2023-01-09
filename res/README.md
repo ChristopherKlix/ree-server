@@ -8,15 +8,16 @@
 
 # Updates
 
-_Stand Jan 6_
+_Stand Jan 9_
 
 ## ET1
 
 _Info direkt von Prof. Lapke_
 
-- VL am Montag findet statt
 - Praktikum am Dienstag findet statt
 - Prüfung wie geplant
+
+weitere Infos auf der Modulseite: [B-REE-ET1](./B-REE-ET1/B-REE-ET1.md).
 
 ## PR1
 
@@ -37,6 +38,8 @@ Email: [schulz_hawhamburg@posteo.de](mailto:schulz_hawhamburg@posteo.de)
 - Fokus der Prüfung liegt auf Verständnis
 - Bei Fragen, gerne Email an Prof. Schulz
 
+weitere Infos auf der Modulseite: [B-REE-PH1](./B-REE-PH1/B-REE-PH1.md).
+
 ## MA1
 
 _Info direkt von Prof. Landenfeld_
@@ -47,6 +50,11 @@ _Info direkt von Prof. Landenfeld_
 - mit bestandenen PVLs 1 & 2 wird man zur Klausur zugelassen
 - nicht bestandene Prüfungen im WiSe zählen nicht als Fehlversuch (nach aktuellem Verständnis)
 
+weitere Infos auf der Modulseite: [B-REE-MA1](./B-REE-MA1/B-REE-MA1.md).
+
 ## EE1
 
-n/a
+_Info direkt von Prof. Haase_
+
+- Praktikum finden wie geplant am Montag statt
+- noch keine genauen Infos bzgl. Klausur, wird jedoch vermutlich wie geplant statt finden
