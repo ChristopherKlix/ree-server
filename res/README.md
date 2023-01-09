@@ -21,9 +21,15 @@ weitere Infos auf der Modulseite: [B-REE-ET1](./B-REE-ET1/B-REE-ET1.md).
 
 ## PR1
 
-- Prüfung unklar, hängt von PC Pool Status ab
-- Ist der PC Pool wieder online, findet die Prüfung wie geplant statt
-- Praktikum 7 hängt ebenfalls davon ab
+**Aussage vom FSB:**
+
+Programmieren-Prüfungen sind vorerst bis auf Weiteres verschoben,
+es sei denn, es werden Alternativprüfungsformen vom Professor angeboten.
+
+Der PC Pool wird deren Aussage nach nicht bis zur Prüfungsphase wieder nutzbar sein.
+
+Erwarte noch direkte Informationen von Prof. Eger bzgl. Prüfung und Praktikum.
+Daher sind diese Informationen nicht verbindlich.
 
 ## PH1
 
