@@ -9,5 +9,5 @@
   - [PRP1\_Aufgabe\_04.pdf](./PRP1_Aufgabe_04.pdf)
   - [PRP1\_Aufgabe\_05.pdf](./PRP1_Aufgabe_05.pdf)
   - [PRP1\_Aufgabe\_06.pdf](./PRP1_Aufgabe_06.pdf)
-  - [Zusatzaufgabe](./Praktikumsaufgaben/PRP1_Zusatzaufgabe.pdf)
+  - [Zusatzaufgabe](./PRP1_Zusatzaufgabe.pdf)
   - [.csv File für die Zusatzaufgabe](./module.csv)
