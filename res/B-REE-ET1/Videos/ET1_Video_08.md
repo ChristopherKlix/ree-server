@@ -9,6 +9,6 @@
 </style>
 
 <video controls controlsList="nodownload">
-  <source src="https://storage.googleapis.com/ree-server-videos/ET1_video_08.mp4" type="video/mp4">
+  <source src="https://storage.googleapis.com/ree-server-videos/ET1_Video_08.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
