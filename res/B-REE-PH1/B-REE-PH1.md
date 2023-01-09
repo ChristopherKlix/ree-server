@@ -15,7 +15,7 @@ Er ist ebenso vor Ort an der Universiät anzutreffen.
 
 ## Updates
 
-_Stand Jan 6_
+_Stand Jan 9_
 
 Prof. Schulz bittet um das Kontaktieren per privater Email, um dem Verteiler hinzugefügt zu werden.
 
@@ -25,7 +25,7 @@ Bei Fragen, gerne Email an Prof. Schulz.
 
 Die Prüfungen finden wie geplant statt. Die Termine können im folgenden Dokument eingesehen werden:
 
-[Prüfungstermine](./physik_pruefungstermine.pdf)
+Offizielles Dokument: [physik_pruefungstermine.pdf](./physik_pruefungstermine.pdf)
 
 ### Good to know
 
