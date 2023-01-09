@@ -34,7 +34,7 @@ Bei Fragen:
 Email: [schulz_hawhamburg@posteo.de](mailto:schulz_hawhamburg@posteo.de)
 
 - Prüfungen finden wie geplant statt
-- Email geht heute/morgen raus mit Terminen
+- Termine auf der Modulseite einsehbar
 - Fokus der Prüfung liegt auf Verständnis
 - Bei Fragen, gerne Email an Prof. Schulz
 
