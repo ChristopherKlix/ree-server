@@ -20,9 +20,8 @@ Er ist ebenso ab Montag vor Ort an der Universiät anzutreffen.
 
 ## Updates
 
-_Stand Jan 6_
+_Stand Jan 9_
 
-- VL am Montag findet statt
 - Praktikum am Dienstag findet statt
 - Prüfung wie geplant
 

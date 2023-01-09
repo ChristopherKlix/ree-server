@@ -31,7 +31,7 @@ Ein Wiederholungstermin wird Anfang SoSe angeboten, allerdings dann wahrscheinli
 
 ### Good to know
 
-_Bei unstimmigkeit bitte Bescheid sagen!_
+_Bei Unstimmigkeiten bitte Bescheid sagen!_
 _Informationen stammen aus gesammelten Wissen._
 _Bitte nicht als offizielle Quelle ansehen._
 

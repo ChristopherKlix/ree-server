@@ -27,6 +27,21 @@ Die Prüfungen finden wie geplant statt. Die Termine können im folgenden Dokume
 
 [Prüfungstermine](./physik_pruefungstermine.pdf)
 
+### Good to know
+
+_Bei Unstimmigkeiten bitte Bescheid sagen!_
+_Informationen stammen aus gesammelten Wissen._
+_Bitte nicht als offizielle Quelle ansehen._
+
+- Taschenrechner ist **nicht** erlaubt
+- Konzepte werden abgefragt, **keine aufwendigen** Rechnungen
+- **keine** Formelsammlung erlaubt
+- 30min Prüfungsdauer
+- Erster Thema darf frei gewählt werden
+- Es sollen verschieden Fragen aus verschiedenen Themen in je 2-3min kompakt beantwortet werden
+- Beispiel: "Erklären Sie den elastischen und unelastischen Stoss"
+- Erklärung so, als würde man das Konzept einem Kommilitonen erklären
+
 ### Prüfungstermine
 
 Montag, 16.01.23, 9:30 Uhr: Betani, Petersen\
