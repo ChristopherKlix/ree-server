@@ -7,6 +7,8 @@
 - [Übungsaufgaben](./Übungsaufgaben/README.md)
 - [Lösungen Übungsaufgaben (Jannik Erdmann)](ET1_L%C3%B6sungen_%C3%9Cbungsaufgaben.pdf)
 - [Videos](./Videos/README.md)
+- [Praktikumsaufgaben](./Praktikumsaufgaben/README.md)
+- [VLs mit Lapke's Notizen]() (im Laufe des Tages)
 
 ## Kontakt
 
@@ -28,18 +30,19 @@ Bei Fragen, gerne Email an Prof. Lapke.
 
 ## Prüfung
 
-_Stand Jan 6_
+_Stand Jan 9_
 
 Die Prüfung findet wie geplant schriftlich am 31.01.2023 statt.
 
 ### Good to know
 
-_Bei unstimmigkeit bitte Bescheid sagen!_
+_Bei Unstimmigkeiten bitte Bescheid sagen!_
 _Informationen stammen aus gesammelten Wissen._
 _Bitte nicht als offizielle Quelle ansehen._
 
 - Taschenrechner (auch grafisch) ist erlaubt
-- 4x DIN A4 Seiten Formelsammlung (?)
+- 6x DIN A4 Seiten Formelsammlung
+- Handschriftlich oder digital-schriftlich gedruckt
 - Altklausuren sind repräsentativ
 - Einheiten üben!
 - Grundsätzlich ist alles aus dem Skript relevant
@@ -51,4 +54,4 @@ _Bitte nicht als offizielle Quelle ansehen._
 
 ### Ort
 
-Noch nicht bekannt.
+BT7, Raum noch unbekannt.
