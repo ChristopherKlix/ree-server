@@ -50,7 +50,14 @@ weitere Infos auf der Modulseite: [B-REE-PH1](./B-REE-PH1/B-REE-PH1.md).
 
 _Info direkt von Prof. Landenfeld_
 
-- Übungen am 11.1. finden statt, aber "offline" vor Ort
+_Stand Jan 10_
+
+**Mi 11.01., 12:10 - 16:00:** MA VL+Übungen in 5.60 anstatt PC Pool Übungen
+
+**Do 12.01.:** VL entfällt
+
+**Mi 19.01., 12:00 - 14:00:** Klausurvorbereitung & Fragestunde
+
 - Prüfung am 23.1. findet **schriftlich auf Papier** vor Ort statt
 - Wiederholungsklausur Anfang SoSe digital
 - mit bestandenen PVLs 1 & 2 wird man zur Klausur zugelassen

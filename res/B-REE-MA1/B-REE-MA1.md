@@ -16,14 +16,17 @@ VLs und Übungen finden wie geplant statt.
 
 ## Updates
 
-_Stand Jan 6_
+_Stand Jan 10_
 
-- VL am Mittwoch findet statt.
-- Übungen am Mittwoch findet (offline) vor Ort statt.
+**Mi 11.01., 12:10 - 16:00:** MA VL+Übungen in 5.60 anstatt PC Pool Übungen
+
+**Do 12.01.:** VL entfällt
+
+**Mi 19.01., 12:00 - 14:00:** Klausurvorbereitung & Fragestunde
 
 ## Prüfung
 
-_Stand Jan 6_
+_Stand Jan 10_
 
 Die Prüfung findet **anders als geplant schriftlich** am 23.01.2023 statt.
 
