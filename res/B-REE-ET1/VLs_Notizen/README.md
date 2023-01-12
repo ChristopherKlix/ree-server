@@ -1,0 +1,25 @@
+# VLs
+
+[< back](../B-REE-ET1.md)
+
+- __VLs\_Notizen__
+  - [ET1\_00 \- Einführung\_VL.pdf](ET1_00%20-%20Einf%C3%BChrung_VL.pdf)
+  - [ET1\_00b \- Laborhinweise\_preview.pdf](ET1_00b%20-%20Laborhinweise_preview.pdf)
+  - [ET1\_00b \- Simulations\-Einführung\_VL.pdf](ET1_00b%20-%20Simulations-Einf%C3%BChrung_VL.pdf)
+  - [ET1\_01 \- Grundlagen \- VL (2).pdf](ET1_01%20-%20Grundlagen%20-%20VL%20(2).pdf)
+  - [ET1\_01b \- Grundlagen \- Teil2 \- VL.pdf](ET1_01b%20-%20Grundlagen%20-%20Teil2%20-%20VL.pdf)
+  - [ET1\_02 \- Gleichstromschaltungen \- Kirchhoff \-VL.pdf](ET1_02%20-%20Gleichstromschaltungen%20-%20Kirchhoff%20-VL.pdf)
+  - [ET1\_03 \- Gleichstromschaltungen \- Quellen \- VL.pdf](ET1_03%20-%20Gleichstromschaltungen%20-%20Quellen%20-%20VL.pdf)
+  - [ET1\_03b \-  Superposition  \- Review.pdf](ET1_03b%20-%20%20Superposition%20%20-%20Review.pdf)
+  - [ET1\_04 \- Gleichstromschaltungen \- Netzwerkanalyse \- Basisverfahren \- VL.pdf](ET1_04%20-%20Gleichstromschaltungen%20-%20Netzwerkanalyse%20-%20Basisverfahren%20-%20VL.pdf)
+  - [ET1\_05 \- Gleichstromschaltungen \- Netzwerkanalyse \- Maschenstrom \- Knotenpotential \- VL.pdf](ET1_05%20-%20Gleichstromschaltungen%20-%20Netzwerkanalyse%20-%20Maschenstrom%20-%20Knotenpotential%20-%20VL.pdf)
+  - [ET1\_06 \- Nichtlineare Quellen und Verbraucher, gesteuerte Quellen, Strom\-Spannungsmessung \- Video  \- VL.pdf](ET1_06%20-%20Nichtlineare%20Quellen%20und%20Verbraucher%2C%20gesteuerte%20Quellen%2C%20Strom-Spannungsmessung%20-%20Video%20%20-%20VL.pdf)
+  - [ET1\_07a \-Gleichstrommessung \- VL.pdf](ET1_07a%20-Gleichstrommessung%20-%20VL.pdf)
+  - [ET1\_07b \- Messung von Widerständen \- VL.pdf](ET1_07b%20-%20Messung%20von%20Widerst%C3%A4nden%20-%20VL.pdf)
+  - [ET1\_08 \- Elektrisches Feld \- Video \- VL.pdf](ET1_08%20-%20Elektrisches%20Feld%20-%20Video%20-%20VL.pdf)
+  - [ET1\_08 \- Elektrisches Feld \- Video.pdf](ET1_08%20-%20Elektrisches%20Feld%20-%20Video.pdf)
+  - [ET1\_09 \- Magnetisches Feld und Spule \- VL.pdf](ET1_09%20-%20Magnetisches%20Feld%20und%20Spule%20-%20VL.pdf)
+  - [ET1\_09 \- Magnetisches Feld und Spule \- Video.pdf](ET1_09%20-%20Magnetisches%20Feld%20und%20Spule%20-%20Video.pdf)
+  - [ET1\_10 \- Wechselspannung \- VL.pdf](ET1_10%20-%20Wechselspannung%20-%20VL.pdf)
+  - [ET1\_11 \- Impedanz   Admittanz \- VL.pdf](ET1_11%20-%20Impedanz%20%20%20Admittanz%20-%20VL.pdf)
+  - [ET1\_12 \- Wechselstromleistung \- Video.pdf](ET1_12%20-%20Wechselstromleistung%20-%20Video.pdf)
