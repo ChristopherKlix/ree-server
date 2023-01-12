@@ -8,15 +8,15 @@ Autor: Christopher Klix
 
 gegeben:
 
-**U_0** = 9V
+**$U_0$** = $9V$
 
-**R_1** = 1k Ohm \
-**R_2** = 500 Ohm \
-**R_3** = 1k Ohm \
-**R_4** = 250 Ohm \
-**R_5** = 10 Ohm
+**$R_1$** = $1k \Omega$ \
+**$R_2$** = $500 \Omega$ \
+**$R_3$** = $1k \Omega$ \
+**$R_4$** = $250 \Omega$ \
+**$R_5$** = $10 \Omega$
 
-**C_1** = 10µF
+**$C_1$** = $10µF$
 
 ## Lösung
 
