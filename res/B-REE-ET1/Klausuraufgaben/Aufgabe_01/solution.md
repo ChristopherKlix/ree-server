@@ -18,8 +18,6 @@ gegeben:
 
 **C_1** = 10µF
 
-****
-
 ## Richtig/Falsch Fragen
 
 Beide Schalter $S_1$ und $S_2$ sind zunächst _geöffnet_.

@@ -20,7 +20,7 @@ gegeben:
 
 ## Lösung
 
-Click [here](./ET1_Klausuraufgabe_01_Loesung.md) to see the solution.
+Click [here](./solution.md) to see the solution.
 
 ## Richtig/Falsch Fragen
 
