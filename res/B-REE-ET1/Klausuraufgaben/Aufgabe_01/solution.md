@@ -67,7 +67,7 @@ Nun wird der Schalter $S_1$ wieder **geöffnet** und die beiden LEDs gehen langs
 
 ## Bonus Frage
 
-Welche Spannung herrscht an V_Bonus, wenn beide Schalter S_1 und S_2 geschlossen sind und einige Sekunden gewartet wird?
+Welche Spannung herrscht an V_Bonus, wenn beide Schalter $S_1$ und $S_2$ geschlossen sind und einige Sekunden gewartet wird?
 
 **Antwort:** $1.755V$
 
