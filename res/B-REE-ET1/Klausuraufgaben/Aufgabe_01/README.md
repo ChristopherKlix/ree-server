@@ -36,7 +36,7 @@ Nach **10 Sekunden** zeigt das _Ampere-Meter_ $I_0 = 4.605mA$ an.
 
 4. Der Widerstand der **LED 1** beträgt $371.33 \Omega$.
 1. Die **LED 1** hat einen Spannungsabfall von $2.4V$.
-1. Das _Ampere-Meter_ $I_0$ zeigt einen Strom von 4.605mA
+1. Das _Ampere-Meter_ $I_1$ zeigt einen Strom von 4.605mA
 
 Nun wird auch der Schalter $S_2$ geschlossen...
 
