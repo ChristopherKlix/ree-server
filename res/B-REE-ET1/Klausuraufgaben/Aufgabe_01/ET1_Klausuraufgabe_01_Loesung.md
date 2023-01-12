@@ -75,6 +75,8 @@ Welche Spannung herrscht an V_Bonus, wenn beide Schalter S_1 und S_2 geschlossen
 
 ## Lösungssimulationen
 
+Falstad Simulation [https://falstad.com/...](https://falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxAUgoqoQFMBaMMAKACcQ09wVvs0e3WnHad8IPFX5VJUZCIDuIaRKkCwvKKJUbuAFjCFBcsPFEGjuPcoFW5KSiwDGNqYW5dl7uTHhxSAYFBpODQGAiU2ISEGHjYBHiSRpAsSp5RHuJ2KQDOIBbGesRGuj4gAGYAhgA2OXQshij5xcqQ1kWW3k0AJnRVAK7VAC4M1XTd4GW+rEodXvotenBas4vLnktUKWnim2J83tv5hvOupynYGGpSbZwYTXYQVCgNhE2YD7fpXyC9A8OjcaTLZQWCsS5UAp2KHeJ6cFgAN32rWsnhQSzKGOIU2gCBYAHlmiVNAg9NZSk9UsjSp5ZBcrsdifoTmBiE04UcCujISdsuYWqU5qymlRTCwIUTOBi5o8fCw8p5hdTNCCqrV6hK0RjFWzgStGeBdVyMZyBUaWtytEA)
+
 ![Circuit - State 0](circuit-20230112-1258.png)
 
 ![Circuit - State 1](circuit-20230112-1246.png)

@@ -18,7 +18,9 @@ gegeben:
 
 **C_1** = 10µF
 
-****
+## Lösung
+
+Click [here](./ET1_Klausuraufgabe_01_Loesung.md) to see the solution.
 
 ## Richtig/Falsch Fragen
 

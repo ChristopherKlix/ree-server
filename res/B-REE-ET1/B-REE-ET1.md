@@ -8,6 +8,7 @@
 - [Lösungen Übungsaufgaben (Jannik Erdmann)](ET1_L%C3%B6sungen_%C3%9Cbungsaufgaben.pdf)
 - [Videos](./Videos/README.md)
 - [Praktikumsaufgaben](./Praktikumsaufgaben/README.md)
+- [Klausuraufgaben](./Klausuraufgaben/README.md)
 - [VLs mit Lapke's Notizen](./VLs_Notizen/README.md)
 
 ## Kontakt
