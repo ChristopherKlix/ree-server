@@ -15,7 +15,7 @@
 
 Prof. Martin Lapke
 
-Email: [martin.lapke@gmail.de](mailto:martin.lapke@gmail.de)
+Email: [HAW.martinlapke@gmail.com](mailto:HAW.martinlapke@gmail.com)
 
 Er ist ebenso ab Montag vor Ort an der Universiät anzutreffen.
 
