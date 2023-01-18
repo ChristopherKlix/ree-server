@@ -34,21 +34,28 @@ Ein Wiederholungstermin wird Anfang SoSe angeboten, allerdings dann wahrscheinli
 
 ### Good to know
 
-_Bei Unstimmigkeiten bitte Bescheid sagen!_
-_Informationen stammen aus gesammelten Wissen._
-_Bitte nicht als offizielle Quelle ansehen._
+_Basierend auf Informationen von Prof. Landenfeld_
 
 - Taschenrechner ist **nicht** erlaubt
 - 4x DIN A4 Seiten handschriftliche Formelsammlung (je einseitig)
 - darf digital geschrieben und ausgedruckt sein
-- weniger als 50% grafische Elemente
-- Altklausur ist repräsentativ
-- Grundsätzlich ist alles aus dem Skript relevant
+- max. 2 Seiten grafisches kopiert erlaubt
+- leere Seiten für Notizen erlaubt
+- verschiebene Stifte, Lineal
+
+### Bewertung
+
+- 10% Überhang (90 von 100 Punkten sind 15 LP)
+- 50% dieser Punkte (z.B.: 90 -> 45) reicht zum Bestehen
+- PVL Bonuspunkte sind 3 Punkte, nicht 3 LP
+- Fehlversuche zählen nicht
 
 ### Datum und Uhrzeit
 
-23\. Januar 2023, 9:00 - 12:00 Uhr
+23\. Januar 2023, 9:00 - 11:00 Uhr
+
+Treffen ab 8:45.
 
 ### Ort
 
-Noch nicht bekannt.
+BT7 - Raum 1365
