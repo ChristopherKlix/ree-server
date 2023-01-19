@@ -2,39 +2,46 @@
 
 [< back](../README.md)
 
+## Materialien
+
 - [Skripts](./Skripts/README.md)
 - [VLs](./VLs/README.md)
 - [Übungen](./Übungen/README.md)
-- [E-Assessment](./E-Assessment/README.md)
 - [Altklausuren](./Altklausuren/README.md)
+
+### Zusätzliche Materialien
+
+- [Klausurablauf](./Klausurablauf.pdf)
 - [MA1_Ablaufplan_WS2223](./Extras/MA1_Ablaufplan_WS2223.pdf)
+- [E-Assessment](./E-Assessment/README.md)
 
 ## Kontakt
 
-Kontakt zu Prof. Landenfeld steht.
-VLs und Übungen finden wie geplant statt.
+Email: karin.landenfeld@arcor.de
+
+Office: BT7, 12. Etage, Raum ganz hinten links
 
 ## Updates
 
-_Stand Jan 10_
+_Stand Jan 19_
 
-**Mi 11.01., 12:10 - 16:00:** MA VL+Übungen in 5.60 anstatt PC Pool Übungen
-
-**Do 12.01.:** VL entfällt
-
-**Mi 19.01., 12:00 - 14:00:** Klausurvorbereitung & Fragestunde
+- Informationen bzgl. Prüfung geupdated (s. unten).
+- Altklausuren hinzugefügt.
+- Altklausur WS1819 mit Lösungen von VL am Mi hinzugefügt.
 
 ## Prüfung
 
-_Stand Jan 10_
+_Stand Jan 19_
 
-Die Prüfung findet **anders als geplant schriftlich** am 23.01.2023 statt.
+Die Prüfung findet am **23.01.2023** im PC Pool **schriftlich** statt.
+
+Klausurablauf-Dokument: [Klausurablauf.pdf](./Klausurablauf.pdf)
 
 Ein Wiederholungstermin wird Anfang SoSe angeboten, allerdings dann wahrscheinlich wieder digital.
 
 ### Good to know
 
-_Basierend auf Informationen von Prof. Landenfeld_
+_Basierend auf Informationen von Prof. Landenfeld._
 
 - Taschenrechner ist **nicht** erlaubt
 - 4x DIN A4 Seiten handschriftliche Formelsammlung (je einseitig)
@@ -47,15 +54,16 @@ _Basierend auf Informationen von Prof. Landenfeld_
 
 - 10% Überhang (90 von 100 Punkten sind 15 LP)
 - 50% dieser Punkte (z.B.: 90 -> 45) reicht zum Bestehen
-- PVL Bonuspunkte sind 3 Punkte, nicht 3 LP
-- Fehlversuche zählen nicht
+- PVL Bonuspunkte sind 3 Punkte, **nicht** 3 LP
+- PVL Bonuspunkte zählen **nicht** zum Bestehen **(!)**
+- Fehlversuche werden **nicht** gezählt
 
 ### Datum und Uhrzeit
 
 23\. Januar 2023, 9:00 - 11:00 Uhr
 
-Treffen ab 8:45.
+Treffen um 8:45 in der 13. Etage von BT7 vor dem Raum 13.65.
 
 ### Ort
 
-BT7 - Raum 1365
+BT7 - Raum 13.65
