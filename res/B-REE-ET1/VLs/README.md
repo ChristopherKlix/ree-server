@@ -3,8 +3,8 @@
 [< back](../B-REE-ET1.md)
 
 - __VLs__
-   - [ET1\_00 \- Einführung\_VL.pdf](ET1_00%20-%20Einfu%CC%88hrung_VL.pdf)
-   - [ET1\_00b \- Simulations\-Einführung\_VL.pdf](ET1_00b%20-%20Simulations-Einfu%CC%88hrung_VL.pdf)
+   - [ET1\_00 \- Einführung\_VL.pdf](./ET1_00%20-%20Einf%C3%BChrung_VL.pdf)
+   - [ET1\_00b \- Simulations\-Einführung\_VL.pdf](./ET1_00b%20-%20Simulations-Einf%C3%BChrung_VL.pdf)
    - [ET1\_01 \- Grundlagen.pdf](ET1_01%20-%20Grundlagen.pdf)
    - [ET1\_01b \- Grundlagen \- Teil2.pdf](ET1_01b%20-%20Grundlagen%20-%20Teil2.pdf)
    - [ET1\_02 \- Gleichstromschaltungen \- Krichhoff \- preview.pdf](ET1_02%20-%20Gleichstromschaltungen%20-%20Krichhoff%20-%20preview.pdf)
